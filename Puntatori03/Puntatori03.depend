@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634716366 source:c:\users\carmi\desktop\scuola\tecn_inf\teoria\codeblocks\puntatori03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1634891537 source:c:\users\carmi\desktop\scuola\tpsi\puntatori03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
